@@ -17,10 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@engjoee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@engjoee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/youssefalboghdady99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefalboghdady99" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/youssefalboghdady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/youssefalboghdady" height="30" width="40" /></a>
-<a href="https://medium.com/@engjoee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@engjoee" height="30" width="40" /></a>
+
 <a href="/www" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www" height="30" width="40" /></a>
 </p>
 
