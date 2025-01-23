@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engjoe99" alt="engjoe99" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Project**
+- 🔭 I’m currently working on **Ecommerce Project**  **Job Portal App**
 
 - 🌱 I’m currently learning **Spring Boot, Angular**
 
