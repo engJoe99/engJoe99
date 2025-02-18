@@ -1,33 +1,54 @@
-# Hi there, I'm Youssef 👋
-
-Welcome to my GitHub profile! I'm a passionate software engineer with a love for technology and problem-solving. Here's a bit about me:
-
-- 🌟 **About Me:**
-  - 🔭 I’m currently working on exciting projects involving web development.
-  - 🌱 I’m constantly learning and improving my skills in various programming languages and technologies.
-  - 📫 How to reach me: youssefalboghdady399@gmail.com
+<h1 align="center">🎸😁 Hi There I'm Youssef</h1>
+<h2 align="center">Software Engineer💻</h2>
 
 
-- 🛠 **Technical Skills:**
-  - **Languages:** Java, TypeScript, C++
-  - **Frameworks & Libraries:** Spring, Spring Boot, Angular
-  - **Tools & Platforms:** Git
-  - **Databases:** MySQL, OracleDB
+<b>
+Hi there! I’m a passionate software engineer with a love for technology and problem-solving. Here's a bit about me:
+I’m currently working on exciting projects involving web development. I’m constantly learning and improving my skills in various programming languages and technologies.
+</b>
 
-- 📈 **GitHub Stats:**
-  
-  ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=engJoe99&show_icons=true&theme=radical)
+<p align="left">
 
-  
-  &nbsp;
+### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Hibernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
+<img align="left" alt="JPA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jpa/jpa-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img align="left" alt="OracleDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engJoe99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br/>
 
+## Follow My Journey
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/youssefalboghdady99/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)](https://github.com/engJoe99)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=dev.to)](https://dev.to/engJoe99)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium)](https://medium.com/@engJoe99)
 
-- 🌐 **Connect with Me:**
-  - [LinkedIn](https://www.linkedin.com/in/youssefalboghdady99/)
+<h2>GitHub Stats</h2>
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
+[![](https://raw.githubusercontent.com/engJoe99/Theme/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/engJoe99/Theme/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/engJoe99/Theme/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-```` ▋
+## Watch my contributions get eaten by snake 🐍
+
+<!-- Contribution Snake -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
