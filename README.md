@@ -31,9 +31,11 @@ I’m currently working on exciting projects involving web development. I’m co
 
 <h2>GitHub Stats</h2>
 
-[![](https://raw.githubusercontent.com/engJoe99/Theme/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/engJoe99/Theme/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/engJoe99/Theme/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engJoe99&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engJoe99&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engJoe99&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engJoe99&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engJoe99&theme=aura_dark&utcOffset=8)
 
 ## Watch my contributions get eaten by snake 🐍
 
