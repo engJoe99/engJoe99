@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 
 - 🛠 **Technical Skills:**
-  - **Languages:** Java, TypeScript, C++, Python
+  - **Languages:** Java, TypeScript, C++
   - **Frameworks & Libraries:** Spring, Spring Boot, Angular
   - **Tools & Platforms:** Git
   - **Databases:** MySQL, OracleDB
