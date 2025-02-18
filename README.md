@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 
 - 🌐 **Connect with Me:**
-  - [LinkedIn](https://www.linkedin.com/in/engJoe99/)
+  - [LinkedIn]([https://www.linkedin.com/in/engJoe99/](https://www.linkedin.com/in/youssefalboghdady99/))
 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
